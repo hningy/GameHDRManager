@@ -137,4 +137,4 @@ go run .\cmd\gamehdrmanager
 
 ## License
 
-暂未指定许可证。公开到 GitHub 前，请根据你的发布意图补充 LICENSE 文件。
+本项目采用 [MIT License](LICENSE) 发布。你可以自由使用、修改、再发布和商业使用，但需要保留原版权声明和许可证文本。
