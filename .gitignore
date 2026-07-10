@@ -1,0 +1,20 @@
+# Build output
+/bin/
+*.exe
+*.dll
+
+# Runtime files
+*.log
+*.tmp
+games_config.legacy.json
+
+# Go tooling
+*.test
+*.out
+coverage.out
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

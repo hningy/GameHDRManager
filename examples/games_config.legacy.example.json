@@ -1,0 +1,30 @@
+{
+  "games": [
+    {
+      "name": "艾尔登法环",
+      "process": "eldenring.exe"
+    },
+    {
+      "name": "荒野大镖客 2",
+      "process": "RDR2.exe"
+    },
+    {
+      "name": "Alan Wake 2",
+      "process": "AlanWake2.exe"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "process": "Cyberpunk2077.exe",
+      "enabled": true,
+      "source": "Steam",
+      "path": "C:/Users/HUANG/Desktop/赛博朋克 2077.url"
+    }
+  ],
+  "settings": {
+    "poll_interval_seconds": 5,
+    "restore_hdr_on_exit": true,
+    "minimize_to_tray": false,
+    "start_monitoring_on_launch": false,
+    "auto_start_with_windows": false
+  }
+}
